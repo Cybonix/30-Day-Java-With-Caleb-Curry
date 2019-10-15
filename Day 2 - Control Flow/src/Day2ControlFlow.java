@@ -6,13 +6,13 @@
  *
  * Caleb talks about "control flow statements" like the If Statement.
  * Branching and Looping are two different types of control flow.
- * When you use Scanner in make sure you close the Scanner to release memory!
+ *
+ * When you use "Scanner in" make sure you close the Scanner with "in.close()"
+ * to release memory!
+ *
  * This is a very simple program that shows the value of branching.
  * You could have an application behave differently based on input from a 
  * configuration file for example.
- *
- * Next, Caleb talk about Loops using the While statement. Remember "ICU".
- * Initialization, Condition, and Update. 
  */
 
 /**
